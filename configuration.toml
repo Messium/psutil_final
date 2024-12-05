@@ -1,0 +1,17 @@
+# This is a TOML document
+
+[menu]
+pointer = ">"
+welcome_message = "Hello and welcome choose an option:"
+[json]
+json_file_name = "alarms.json"
+[logger]
+folder_icon = "📁"
+alarm_icon = "󰞏"
+json_icon = "👺"
+initalize_icon = "🌟"
+date_format = "%d/%m/%Y %H:%M:%S" # default
+# date_format = "%d/%m/%Y"
+log_save_path = "./"
+log_name = "log.txt"
+log_spacing = " 🥊🥊🥊 " # works
